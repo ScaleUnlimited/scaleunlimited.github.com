@@ -2,11 +2,12 @@
 <metadata>
   <groupId>liblinear</groupId>
   <artifactId>liblinear</artifactId>
-  <version>1.51-bixolabs-1</version>
   <versioning>
+    <release>1.92-su-1</release>
     <versions>
       <version>1.51-bixolabs-1</version>
+      <version>1.92-su-1</version>
     </versions>
-    <lastUpdated>20100511205231</lastUpdated>
+    <lastUpdated>20131001013114</lastUpdated>
   </versioning>
 </metadata>
